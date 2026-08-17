@@ -2,21 +2,19 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: CDSL # the website title (if blank, full name will be used instead)
+first_name: Junsoo
+middle_name:
+last_name: Kim
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  이메일이 가장 빠르게 연락받는 방법입니다.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Control and Data Security Lab (CDSL), SeoulTech. Our research focuses on encrypted control (암호제어) — control systems that operate directly on encrypted data.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Control and Data Security Lab (CDSL), Department of Electrical and Information Engineering, Seoul National University of Science and Technology (SeoulTech).
+keywords: encrypted control, cryptographic control, control theory, cyber-physical systems, homomorphic encryption, SeoulTech # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🔐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://cdslst.github.io # the base hostname & protocol for your site

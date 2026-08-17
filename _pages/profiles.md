@@ -1,28 +1,21 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Members of CDSL (Control and Data Security Lab)
 nav: true
-nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+nav_order: 2
 ---
+
+### Advisor
+
+**Junsoo Kim** — Assistant Professor
+[junsookim@seoultech.ac.kr](mailto:junsookim@seoultech.ac.kr) · [Homepage](https://junsookim4.wordpress.com) · [Google Scholar](https://scholar.google.com/citations?user=7IqVf98AAAAJ)
+
+### Graduate Students
+
+- **정민규**
+- **이상원**
+- **이동현**
+
+<small>※ 학생 개별 직급(석사/박사)·이메일은 추후 업데이트 예정입니다.</small>
