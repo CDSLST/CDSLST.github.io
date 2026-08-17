@@ -14,12 +14,10 @@ nav_order: 3
 
 ### Graduate Students
 
-- **정민규** — [jeongmingyu@cdslst.kr](mailto:jeongmingyu@cdslst.kr)
-- **이상원** — [leesangwon@cdslst.kr](mailto:leesangwon@cdslst.kr)
-- **이동현** — [leedonghyun@cdslst.kr](mailto:leedonghyun@cdslst.kr)
+- **정민규** — Combined M.S./Ph.D. Student (석박사통합과정) · [jeongmingyu@cdslst.kr](mailto:jeongmingyu@cdslst.kr)
+- **이상원** — M.S. Student (석사과정) · [leesangwon@cdslst.kr](mailto:leesangwon@cdslst.kr)
+- **이동현** — M.S. Student (석사과정) · [leedonghyun@cdslst.kr](mailto:leedonghyun@cdslst.kr)
 
 ### Undergraduate Students
 
 <small>현재 등록된 학부생 구성원이 없습니다.</small>
-
-<small>※ 개별 직급(석사/박사) 구분은 추후 업데이트 예정입니다.</small>
