@@ -7,7 +7,10 @@ nav: false
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/assets/img/CDSL_s1.png" alt="CDSL logo" style="max-width: 320px; width: 100%; height: auto; margin-bottom: 1.5rem;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+    <img src="/assets/img/CDSL_s1.png" alt="CDSL logo" style="max-width: 320px; width: 100%; height: auto;">
+    <img src="/assets/img/seoultech.PNG" alt="SeoulTech logo" style="max-width: 180px; width: 100%; height: auto;">
+  </div>
   <h1>Control and Data Security Lab</h1>
   <h3>서울과학기술대학교 제어데이터와 보안 연구실 (CDSL)</h3>
 </div>
