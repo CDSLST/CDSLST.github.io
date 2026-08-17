@@ -3,11 +3,11 @@ layout: page
 permalink: /
 title: home
 description: Control and Data Security Lab (CDSL), SeoulTech
-nav: true
-nav_order: 1
+nav: false
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
+  <img src="/assets/img/CDSL_s1.png" alt="CDSL logo" style="max-width: 320px; width: 100%; height: auto; margin-bottom: 1.5rem;">
   <h1>Control and Data Security Lab</h1>
   <h3>서울과학기술대학교 제어데이터와 보안 연구실 (CDSL)</h3>
 </div>

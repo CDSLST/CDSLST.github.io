@@ -14,7 +14,7 @@ footer_text: >
   Control and Data Security Lab (CDSL), Department of Electrical and Information Engineering, Seoul National University of Science and Technology (SeoulTech).
 keywords: encrypted control, cryptographic control, control theory, cyber-physical systems, homomorphic encryption, SeoulTech # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🔐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: CDSL_s1.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://cdslst.github.io # the base hostname & protocol for your site
@@ -95,7 +95,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
